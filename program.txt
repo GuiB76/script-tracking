@@ -1,6 +1,6 @@
 import datetime
 import time
-from pynput.keyboard import Listener as KeyboardListener, Key
+from pynput.keyboard import Listener as KeyboardListener
 from pynput.mouse import Listener as MouseListener
 import pygetwindow as gw
 
@@ -10,9 +10,6 @@ log_file = "journal.txt"
 # Initialiser le suivi du temps pour les frappes consécutives
 last_key_time = time.time()
 current_keys = []
-
-# Dictionnaire pour suivre les touches enfoncées
-pressed_keys = {}
 
 # Fonction pour enregistrer l'action dans le journal
 def log_action(action):
@@ -39,27 +36,15 @@ def on_key_event(key):
     if "Key." in key:
         key = key.split(".")[1]
 
-    if key == 'space':
-        log_action(key)
-    
-    if key == 'backspace':
-        log_action(key)
-
-    if key in pressed_keys:
-        # Si la touche est déjà dans le dictionnaire des touches enfoncées
-        if current_time - pressed_keys[key] >= 1.0:
-            # Si la touche a été enfoncée il y a plus d'une seconde, la supprimer
-            del pressed_keys[key]
-            log_action(f"Appui sur la touche {key}")
-    else:
-        # Si la touche n'est pas dans le dictionnaire des touches enfoncées
-        pressed_keys[key] = current_time
-        current_keys.append(key)
-
     if current_time - last_key_time >= 1.0 or not key.isalnum():
         if current_keys:
             log_action(" ".join(current_keys))
         current_keys = []
+
+    if key == 'space':
+        log_action(key)
+    else:
+        current_keys.append(key)
 
     last_key_time = current_time
 

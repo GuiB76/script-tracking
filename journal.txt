@@ -1,88 +1,190 @@
-2023-09-06 10:56:22: Clic de souris sur le bouton Button.left dans Surveillance clavier avec Python - Google Chrome
-2023-09-06 10:58:42: Clic de souris sur le bouton Button.left dans Inconnu
-2023-09-06 10:58:44: Clic de souris sur le bouton Button.left dans Inconnu
-2023-09-06 10:58:45: Clic de souris sur le bouton Button.left dans Inconnu
-2023-09-06 10:58:46: Appui sur la touche 'd' dans Inconnu
-2023-09-06 11:00:52: Clic de souris sur le bouton Button.left dans program.py - script python - Visual Studio Code
-2023-09-06 11:00:53: Appui sur la touche 'j' dans Surveillance clavier avec Python - Google Chrome
-2023-09-06 11:03:14: Clic de souris sur le bouton Button.left dans program.py - script python - Visual Studio Code
-2023-09-06 11:03:16: Appui sur la touche 'o' dans Nouvel onglet - Google Chrome
-2023-09-06 11:03:17: Appui sur la touche 'n' dans Nouvel onglet - Google Chrome
-2023-09-06 11:03:17: Appui sur la touche space
-2023-09-06 11:03:17: Appui sur la touche 'r'
-2023-09-06 11:03:17: Appui sur la touche 'e'
-2023-09-06 11:03:18: Appui sur la touche 'f'
-2023-09-06 11:03:18: Appui sur la touche 'a'
-2023-09-06 11:03:18: Appui sur la touche 'i'
-2023-09-06 11:03:18: Appui sur la touche 't'
-2023-09-06 11:03:19: Appui sur la touche space
-2023-09-06 11:03:19: Appui sur la touche 'u'
-2023-09-06 11:03:19: Appui sur la touche 'n'
-2023-09-06 11:03:19: Appui sur la touche space
-2023-09-06 11:03:19: Appui sur la touche 't'
-2023-09-06 11:03:19: Appui sur la touche 'e'
-2023-09-06 11:03:20: Appui sur la touche 's'
-2023-09-06 11:03:20: Appui sur la touche 't'
-2023-09-06 11:03:20: Appui sur la touche space
-2023-09-06 11:03:20: Appui sur la touche 'p' dans Nouvel onglet - Google Chrome
-2023-09-06 11:03:21: Appui sur la touche 'o'
-2023-09-06 11:03:21: Appui sur la touche 'u'
-2023-09-06 11:03:21: Appui sur la touche 'r'
-2023-09-06 11:03:21: Appui sur la touche space
-2023-09-06 11:03:21: Appui sur la touche 'v'
-2023-09-06 11:03:21: Appui sur la touche 'i'
-2023-09-06 11:03:22: Appui sur la touche backspace
-2023-09-06 11:03:22: Appui sur la touche 'o'
-2023-09-06 11:03:22: Appui sur la touche 'i'
-2023-09-06 11:03:22: Appui sur la touche 'r'
-2023-09-06 11:03:22: Appui sur la touche space
-2023-09-06 11:03:22: Appui sur la touche 's'
-2023-09-06 11:03:22: Appui sur la touche 'i'
-2023-09-06 11:03:23: Appui sur la touche space
-2023-09-06 11:03:23: Appui sur la touche 'ç'
-2023-09-06 11:03:23: Appui sur la touche 'a'
-2023-09-06 11:03:23: Appui sur la touche space
-2023-09-06 11:03:23: Appui sur la touche 'f'
-2023-09-06 11:03:23: Appui sur la touche 'o'
-2023-09-06 11:03:24: Appui sur la touche 'n'
-2023-09-06 11:03:24: Appui sur la touche 'c'
-2023-09-06 11:03:24: Appui sur la touche 't'
-2023-09-06 11:03:24: Appui sur la touche 'i'
-2023-09-06 11:03:24: Appui sur la touche 'o'
-2023-09-06 11:03:24: Appui sur la touche 'n'
-2023-09-06 11:03:25: Appui sur la touche 'n' dans Nouvel onglet - Google Chrome
-2023-09-06 11:03:25: Appui sur la touche 'e'
-2023-09-06 11:03:25: Appui sur la touche space
-2023-09-06 11:03:25: Appui sur la touche 'b'
-2023-09-06 11:03:25: Appui sur la touche 'i'
-2023-09-06 11:03:25: Appui sur la touche 'e'
-2023-09-06 11:03:25: Appui sur la touche 'n'
-2023-09-06 11:03:26: Appui sur la touche space
-2023-09-06 11:03:26: Appui sur la touche 'h'
-2023-09-06 11:03:26: Appui sur la touche 'e'
-2023-09-06 11:03:26: Appui sur la touche 'i'
-2023-09-06 11:03:26: Appui sur la touche 'n'
-2023-09-06 11:03:27: Clic de souris sur le bouton Button.left dans Nouvel onglet - Google Chrome
-2023-09-06 11:03:29: Clic de souris sur le bouton Button.left dans Nouvel onglet - Google Chrome
-2023-09-06 11:03:29: Clic de souris sur le bouton Button.left dans 
-2023-09-06 11:03:31: Clic de souris sur le bouton Button.left dans script python
-2023-09-06 11:03:32: Clic de souris sur le bouton Button.left dans script python
-2023-09-06 11:03:33: Clic de souris sur le bouton Button.left dans script python
-2023-09-06 11:03:35: Clic de souris sur le bouton Button.left dans script python
-2023-09-06 11:03:35: Clic de souris sur le bouton Button.left dans script python
-2023-09-06 11:03:45: Clic de souris sur le bouton Button.left dans journal.txt - Bloc-notes
-2023-09-06 11:03:46: Clic de souris sur le bouton Button.left dans script python
-2023-09-06 11:03:46: Clic de souris sur le bouton Button.left dans program.py - script python - Visual Studio Code
-2023-09-06 11:03:47: Clic de souris sur le bouton Button.left dans program.py - script python - Visual Studio Code
-2023-09-06 11:03:47: Clic de souris sur le bouton Button.left dans program.py - script python - Visual Studio Code
-2023-09-06 11:03:48: Clic de souris sur le bouton Button.left dans script python
-2023-09-06 11:03:49: Clic de souris sur le bouton Button.left dans Nouvel onglet - Google Chrome
-2023-09-06 11:03:52: Clic de souris sur le bouton Button.left dans Surveillance clavier avec Python - Google Chrome
-2023-09-06 11:03:53: Clic de souris sur le bouton Button.left dans program.py - script python - Visual Studio Code
-2023-09-06 11:03:54: Clic de souris sur le bouton Button.left dans 
-2023-09-06 11:03:55: Clic de souris sur le bouton Button.left dans script python
-2023-09-06 11:03:56: Clic de souris sur le bouton Button.left dans script python
-2023-09-06 11:03:58: Clic de souris sur le bouton Button.left dans script python
-2023-09-06 11:03:58: Clic de souris sur le bouton Button.left dans script python
-2023-09-06 11:04:01: Clic de souris sur le bouton Button.left dans journal.txt - Bloc-notes
-2023-09-06 11:04:03: Clic de souris sur le bouton Button.left dans script python
+2023-09-06 14:31:29: Clic de souris sur le bouton Button.left dans program.py - script python - Visual Studio Code
+2023-09-06 14:31:30: Clic de souris sur le bouton Button.left dans touche : \x13 en Python - Recherche Google - Google Chrome
+2023-09-06 14:31:31: 'o'
+2023-09-06 14:31:31: 'n'
+2023-09-06 14:31:31: space
+2023-09-06 14:31:31: space 'f'
+2023-09-06 14:31:32: 'a'
+2023-09-06 14:31:32: 'i'
+2023-09-06 14:31:32: 't'
+2023-09-06 14:31:32: space
+2023-09-06 14:31:32: 'd'
+2023-09-06 14:31:32: 'e'
+2023-09-06 14:31:32: 's'
+2023-09-06 14:31:32: space
+2023-09-06 14:31:32: Appui sur la touche space
+2023-09-06 14:31:33: Appui sur la touche 't'
+2023-09-06 14:31:33: space
+2023-09-06 14:31:33: space
+2023-09-06 14:31:33: 'u'
+2023-09-06 14:31:33: 'r'
+2023-09-06 14:31:34: space
+2023-09-06 14:31:34: 'g'
+2023-09-06 14:31:34: Appui sur la touche 'o'
+2023-09-06 14:31:34: 'o'
+2023-09-06 14:31:34: 'l'
+2023-09-06 14:31:34: Appui sur la touche 'e'
+2023-09-06 14:31:34: space
+2023-09-06 14:31:34: Appui sur la touche space
+2023-09-06 14:31:34: 'c'
+2023-09-06 14:31:35: 'h'
+2023-09-06 14:31:35: Appui sur la touche 'r'
+2023-09-06 14:31:35: 'm'
+2023-09-06 14:31:35: 'e'
+2023-09-06 14:31:35: space
+2023-09-06 14:31:35: Appui sur la touche 'o'
+2023-09-06 14:31:35: space
+2023-09-06 14:31:36: Appui sur la touche 'u'
+2023-09-06 14:31:36: Appui sur la touche 'i'
+2023-09-06 14:31:36: Appui sur la touche 'a'
+2023-09-06 14:31:37: Appui sur la touche 's'
+2023-09-06 14:31:37: space
+2023-09-06 14:31:37: Appui sur la touche space
+2023-09-06 14:31:37: 'o'
+2023-09-06 14:31:37: 'i'
+2023-09-06 14:31:37: 'u'
+2023-09-06 14:31:37: 'a'
+2023-09-06 14:31:38: 's'
+2023-09-06 14:31:39: space
+2023-09-06 14:31:39: space
+2023-09-06 14:31:39: Appui sur la touche 'o'
+2023-09-06 14:31:39: Appui sur la touche 'u'
+2023-09-06 14:31:40: Appui sur la touche 'a'
+2023-09-06 14:31:40: Appui sur la touche 'i'
+2023-09-06 14:31:40: Appui sur la touche 's'
+2023-09-06 14:31:40: space
+2023-09-06 14:31:40: 'j'
+2023-09-06 14:31:40: Appui sur la touche 'e'
+2023-09-06 14:31:40: space
+2023-09-06 14:31:40: Appui sur la touche space
+2023-09-06 14:31:40: 's'
+2023-09-06 14:31:40: 'a'
+2023-09-06 14:31:40: 'i'
+2023-09-06 14:31:41: space
+2023-09-06 14:31:41: space 'p'
+2023-09-06 14:31:41: space
+2023-09-06 14:31:41: 'é'
+2023-09-06 14:31:42: Appui sur la touche 'c'
+2023-09-06 14:31:42: 'r'
+2023-09-06 14:31:42: Appui sur la touche 'i'
+2023-09-06 14:31:42: 'e'
+2023-09-06 14:31:42: space
+2023-09-06 14:31:42: Appui sur la touche space
+2023-09-06 14:31:42: Appui sur la touche 'j'
+2023-09-06 14:31:43: space
+2023-09-06 14:31:43: space 'c'
+2023-09-06 14:31:43: 'o'
+2023-09-06 14:31:43: 'i'
+2023-09-06 14:31:43: Appui sur la touche 's'
+2023-09-06 14:31:43: space
+2023-09-06 14:31:43: Appui sur la touche 'a'
+2023-09-06 14:31:43: Appui sur la touche 'h'
+2023-09-06 14:31:43: 'a'
+2023-09-06 14:31:44: 'h'
+2023-09-06 14:31:44: space
+2023-09-06 14:31:44: Appui sur la touche space
+2023-09-06 14:31:45: backspace
+2023-09-06 14:31:45: backspace
+2023-09-06 14:31:45: backspace
+2023-09-06 14:31:45: backspace
+2023-09-06 14:31:46: backspace
+2023-09-06 14:31:46: backspace
+2023-09-06 14:31:46: backspace
+2023-09-06 14:31:46: Appui sur la touche backspace
+2023-09-06 14:31:46: backspace
+2023-09-06 14:31:46: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: Appui sur la touche backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:47: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: Appui sur la touche backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:48: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: Appui sur la touche backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:49: backspace
+2023-09-06 14:31:50: backspace
+2023-09-06 14:31:50: backspace
+2023-09-06 14:31:50: backspace
+2023-09-06 14:31:50: backspace
+2023-09-06 14:31:50: backspace
+2023-09-06 14:31:51: Clic de souris sur le bouton Button.left dans touche : \x13 en Python - Recherche Google - Google Chrome
+2023-09-06 14:31:53: Clic de souris sur le bouton Button.left dans touche : \x13 en Python - Recherche Google - Google Chrome
+2023-09-06 14:31:54: Clic de souris sur le bouton Button.left dans program.py - script python - Visual Studio Code

@@ -1,0 +1,1 @@
+Je veux utiliser un deuxième document .txt dans lequel les suites de lettres, caractères, chiffres et les espaces sont pris en compte et écris sur la même ligne pour former une phrase. Par exemple : "
